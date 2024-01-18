@@ -1,7 +1,7 @@
 {
     "name": "cmm",
     "version": "0.1.0",
-    "private": true,
+    "private": false,
     "homepage": "https://elinini.github.io/cmm",
     "scripts": {
         "dev": "next dev",
