@@ -25,7 +25,7 @@ function Grid() {
         window.scrollTo({ top: 0, behavior: "smooth" });
     };
     useEffect(() => {
-        setImages(data.sort((_) => 0.5 - Math.random()));
+        setImages(data.sort(() => 0.5 - Math.random()));
         setSize(data.length);
     }, []);
 
@@ -44,10 +44,9 @@ function Grid() {
             <div className="columns-4 space-y-4 gap-4 place-items-start">
                 {images.map((image) => {
                     return (
-                        <LazyLoad offset={500}>
+                        <LazyLoad offset={500} key={`${image.id}`}>
                             <div
                                 className="flex h-min w-full object-cover"
-                                key={`${image.id}`}
                                 onClick={() => onClick(image)}
                             >
                                 <img src={image.url} />
