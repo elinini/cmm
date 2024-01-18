@@ -1,0 +1,429 @@
+[
+    {
+        "id": 0,
+        "url": "https://i.imgur.com/3tczWNJ.jpg",
+        "title": "Qipao Eirika",
+        "notes": "This was a piece commissioned for the Year of the Tiger (in the Chinese calendar), my zodiac.",
+        "artist": "cinanna008",
+        "tags": [
+            ["char", "eirika"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 1,
+        "url": "https://i.imgur.com/DWkapto.jpg",
+        "title": "Yukata Caeda",
+        "notes": "I wanted her to be holding a little omamori with a Marth design.",
+        "artist": "kenjik76",
+        "tags": [
+            ["char", "caeda"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 2,
+        "url": "https://i.imgur.com/6pWCmGE.jpg",
+        "title": "Eliwood and Ninian in the glade",
+        "alt": "Eliwood and Ninian under a tree in a forest closing together.",
+        "artist": "bilo_art",
+        "tags": [
+            ["char", "eliwood"],
+            ["char", "ninian"],
+            ["frame", "full w/ bg"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 3,
+        "url": "https://i.imgur.com/Y6IuAcG.jpg",
+        "title": "Summer Ninian",
+        "artist": "art_lymi",
+        "tags": [
+            ["char", "ninian"],
+            ["frame", "full"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 4,
+        "url": "https://i.imgur.com/iOGomok.jpg",
+        "title": "Brave Eirika and Feh",
+        "alt": "Eirika snuggling with Feh the owl.",
+        "notes": "This was a piece commissioned to celebrate the release of Brave Eirika.",
+        "artist": "yog09_",
+        "tags": [
+            ["char", "eirika"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 5,
+        "url": "https://i.imgur.com/3C46Pb6.png",
+        "title": "Felix (post-timeskip)",
+        "alt": "Felix poses in his battle attire.",
+        "artist": "ruta_tata",
+        "tags": [
+            ["char", "felix"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 6,
+        "url": "https://i.imgur.com/9CsNT7l.png",
+        "title": "Jeorge with the sunglasses accessory",
+        "artist": "somebutts",
+        "tags": [
+            ["char", "jeorge"],
+            ["frame", "bust"],
+            ["type", "traditional"]
+        ]
+    },
+    {
+        "id": 7,
+        "url": "https://i.imgur.com/808xKSw.png",
+        "title": "Eliwood with the Wing Icon Accessory",
+        "artist": "somebutts",
+        "tags": [
+            ["char", "eliwood"],
+            ["frame", "bust"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 8,
+        "url": "https://i.imgur.com/M98APQO.jpg",
+        "title": "Three Hopes Dimitri",
+        "notes": "This was commissioned upon the reveal of Dimitri's Three Hopes design.",
+        "artist": "wingsea25",
+        "tags": [
+            ["char", "dimitri"],
+            ["frame", "bust"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 9,
+        "url": "https://i.imgur.com/ufjsJfS.png",
+        "title": "Eliwood and Ninian's wedding",
+        "artist": "picnicic",
+        "tags": [
+            ["char", "eliwood"],
+            ["char", "ninian"],
+            ["frame", "full w/ bg"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 10,
+        "url": "https://i.imgur.com/Qay1XAI.jpg",
+        "title": "Qipao Eirika",
+        "notes": "This was a piece commissioned for the Year of the Tiger (in the Chinese calendar), my zodiac.",
+        "artist": "mingrix",
+        "tags": [
+            ["char", "eirika"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 11,
+        "url": "https://i.imgur.com/zKZomH7.jpg",
+        "title": "Eliwood and Ninian's special dance",
+        "artist": "cenouritaflame",
+        "tags": [
+            ["char", "eliwood"],
+            ["char", "ninian"],
+            ["frame", "full w/ bg"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 12,
+        "url": "https://i.imgur.com/FASwk9i.jpg",
+        "title": "Felix and Kagetsu spar",
+        "artist": "moyashi_mou2",
+        "tags": [
+            ["char", "felix"],
+            ["char", "kagetsu"],
+            ["frame", "full"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 13,
+        "url": "https://i.imgur.com/DGa79bt.jpg",
+        "title": "Eliwood and Ninian in battle",
+        "artist": "naokimineta026",
+        "tags": [
+            ["char", "ninian"],
+            ["char", "eliwood"],
+            ["frame", "full"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 14,
+        "url": "https://i.imgur.com/amvpcmJ.jpg",
+        "title": "Eirika and Ephraim build a snow-Lyon",
+        "artist": "gzeidraws",
+        "tags": [
+            ["char", "eirika"],
+            ["char", "ephraim"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 15,
+        "url": "https://i.imgur.com/2DULcku.png",
+        "title": "Eliwood and Ninian (Wedding Chibis)",
+        "artist": "missdurianne",
+        "tags": [
+            ["char", "ninian"],
+            ["char", "eliwood"],
+            ["frame", "chibi"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 16,
+        "url": "https://i.imgur.com/FrE4n8r.png",
+        "title": "Summer Eirika and L'Arachel",
+        "artist": "r51633060",
+        "tags": [
+            ["char", "eirika"],
+            ["char", "larachel"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 17,
+        "url": "https://i.imgur.com/RPwKZ3c.png",
+        "title": "Winter Eirika",
+        "artist": "densho_hiyoko",
+        "tags": [
+            ["char", "eirika"],
+            ["frame", "chibi"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 18,
+        "url": "https://i.imgur.com/7r41hwb.png",
+        "title": "Resplendent Eirika and L'Arachel",
+        "notes": "Commissioned for the release of Resplendent L'Arachel.",
+        "artist": "LazzleDazzler",
+        "tags": [
+            ["char", "eirika"],
+            ["char", "larachel"],
+            ["frame", "half"],
+            ["type", "colored sketch"]
+        ]
+    },
+    {
+        "id": 19,
+        "url": "https://i.imgur.com/PqFpIwA.jpg",
+        "title": "Brave Eirika and Camilla",
+        "notes": "Commissioned for a friend.",
+        "artist": "JadesnapArt",
+        "tags": [
+            ["char", "eirika"],
+            ["char", "camilla"],
+            ["frame", "half"],
+            ["type", "colored sketch"]
+        ]
+    },
+    {
+        "id": 20,
+        "url": "https://i.imgur.com/ohOlEwI.png",
+        "title": "Legendary Caeda and Marth",
+        "notes": "Concept based off of Legendary Caeda's Meet the Heroes art.",
+        "artist": "JadesnapArt",
+        "tags": [
+            ["char", "caeda"],
+            ["char", "marth"],
+            ["frame", "full"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 21,
+        "url": "https://i.imgur.com/493c0L8.jpg",
+        "title": "Eliwood and Ninian",
+        "artist": "kinako_tadano",
+        "tags": [
+            ["char", "eliwood"],
+            ["char", "ninian"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 22,
+        "url": "https://i.imgur.com/FHExJlg.jpg",
+        "title": "Legendary Eliwood and Hector",
+        "artist": "luis022043",
+        "tags": [
+            ["char", "eliwood"],
+            ["char", "hector"],
+            ["frame", "full"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 23,
+        "url": "https://i.imgur.com/cenPnme.jpg",
+        "title": "Groom Eliwood",
+        "artist": "juicet1n",
+        "tags": [
+            ["char", "eliwood"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 24,
+        "url": "https://i.imgur.com/vA9Yr8d.png",
+        "title": "Resplendent Lilina",
+        "artist": "meqqey",
+        "tags": [
+            ["char", "lilina"],
+            ["frame", "bust"],
+            ["type", "colored sketch"]
+        ]
+    },
+    {
+        "id": 25,
+        "url": "https://i.imgur.com/GPkGPTT.png",
+        "title": "Reyson icon",
+        "artist": "tamafry",
+        "tags": [
+            ["char", "reyson"],
+            ["frame", "icon"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 26,
+        "url": "https://i.imgur.com/oeRULiR.jpg",
+        "title": "Resplendent FE7 Lords",
+        "artist": "trunswicked",
+        "tags": [
+            ["char", "eliwood"],
+            ["char", "hector"],
+            ["char", "lyn"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 27,
+        "url": "https://i.imgur.com/XYHAZ36.png",
+        "title": "Eliwood and Ninian",
+        "artist": "vreemdear",
+        "tags": [
+            ["char", "eliwood"],
+            ["char", "ninian"],
+            ["frame", "half"],
+            ["type", "colored sketch"]
+        ]
+    },
+    {
+        "id": 28,
+        "url": "https://i.imgur.com/uVIzPnL.png",
+        "title": "Eliwood sketch request",
+        "artist": "serennesart",
+        "notes": "Skeb-style sketch requested during Emblem-con.",
+        "tags": [
+            ["char", "eliwood"],
+            ["frame", "half"],
+            ["type", "colored sketch"]
+        ]
+    },
+    {
+        "id": 29,
+        "url": "https://i.imgur.com/e0qJsMH.jpg",
+        "title": "Citrinne",
+        "artist": "akr369akr",
+        "tags": [
+            ["char", "citrinne"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 30,
+        "url": "https://i.imgur.com/0WsIpdt.jpg",
+        "title": "Eliwood and Ninian at the altar",
+        "artist": "canop_s",
+        "tags": [
+            ["char", "eliwood"],
+            ["char", "ninian"],
+            ["frame", "full"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 31,
+        "url": "https://i.imgur.com/MGqouV6.jpg",
+        "title": "Eliwood wielding Durandal",
+        "artist": "kzhjp",
+        "notes": "Requested to be a companion piece of the artist's existing Roy piece.",
+        "tags": [
+            ["char", "eliwood"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 32,
+        "url": "https://i.imgur.com/MGqouV6.jpg",
+        "title": "Anamnesis Eirika",
+        "artist": "shikilostman",
+        "tags": [
+            ["char", "eirika"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 33,
+        "url": "https://i.imgur.com/MGqouV6.jpg",
+        "title": "Resplendent Innes",
+        "artist": "ubwmitekure",
+        "notes": "Commissioned for the release of Resplendent Innes.",
+        "tags": [
+            ["char", "innes"],
+            ["frame", "full"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 33,
+        "url": "https://i.imgur.com/wwtl8Qy.png",
+        "title": "Three Hopes Annette",
+        "artist": "ying1hua1",
+        "tags": [
+            ["char", "annette"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 34,
+        "url": "https://i.imgur.com/lPgfPCS.jpg",
+        "title": "Kagetsu",
+        "artist": "gausebokashi",
+        "tags": [
+            ["char", "kagetsu"],
+            ["frame", "full"],
+            ["type", "colored"]
+        ]
+    }
+]
