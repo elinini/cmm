@@ -25,7 +25,7 @@ function Grid() {
         window.scrollTo({ top: 0, behavior: "smooth" });
     };
     useEffect(() => {
-        setImages(data);
+        setImages(data.sort(() => Math.random() - 0.5));
         setSize(data.length);
     }, []);
 
