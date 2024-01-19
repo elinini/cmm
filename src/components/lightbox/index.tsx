@@ -45,7 +45,7 @@ function Lightbox({ image, setLightBox }: IProps) {
                     className="flex flex-col justify-self items-center rounded-lg bg-black border-double border-2 border-white-500 opacity-100 w-9/10 h-[100vh]"
                 >
                     {/* Header */}
-                    <div className="flex items-center justify-between p-4 border-b rounded-t w-9/10 h-5/6">
+                    <div className="flex items-center justify-between px-4 py-2 border-b rounded-t w-[100%] h-5/6">
                         <p className="text-xl font-semibold">{image?.title}</p>
                         <p
                             onClick={() => onClose()}
@@ -61,7 +61,7 @@ function Lightbox({ image, setLightBox }: IProps) {
                             src={image.url}
                             title={image?.title}
                         />
-                        <div className="pt-2 pb-0 flex flex-col justify-center items-center">
+                        <div className="pt-2 pb-0 flex flex-col justify-end items-center">
                             {showInfo ? (
                                 image?.artist ? (
                                     <>

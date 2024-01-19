@@ -26,6 +26,6 @@ const config: Config = {
             "9/10": "90%",
         },
     },
-    plugins: [],
+    plugins: [require("daisyui")],
 };
 export default config;
