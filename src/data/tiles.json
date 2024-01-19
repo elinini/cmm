@@ -32,7 +32,7 @@
         "tags": [
             ["char", "eliwood"],
             ["char", "ninian"],
-            ["frame", "full w/ bg"],
+            ["frame", "full"],
             ["type", "colored"]
         ]
     },
@@ -68,7 +68,7 @@
         "artist": "ruta_tata",
         "tags": [
             ["char", "felix"],
-            ["frame", "half"],
+            ["frame", "full"],
             ["type", "colored"]
         ]
     },
@@ -114,7 +114,7 @@
         "tags": [
             ["char", "eliwood"],
             ["char", "ninian"],
-            ["frame", "full w/ bg"],
+            ["frame", "full"],
             ["type", "colored"]
         ]
     },
@@ -138,7 +138,7 @@
         "tags": [
             ["char", "eliwood"],
             ["char", "ninian"],
-            ["frame", "full w/ bg"],
+            ["frame", "full"],
             ["type", "colored"]
         ]
     },
@@ -383,7 +383,7 @@
     },
     {
         "id": 32,
-        "url": "https://i.imgur.com/MGqouV6.jpg",
+        "url": "https://i.imgur.com/wODSiJJ.jpg",
         "title": "Anamnesis Eirika",
         "artist": "shikilostman",
         "tags": [
@@ -405,7 +405,7 @@
         ]
     },
     {
-        "id": 33,
+        "id": 34,
         "url": "https://i.imgur.com/wwtl8Qy.png",
         "title": "Three Hopes Annette",
         "artist": "ying1hua1",
@@ -416,7 +416,7 @@
         ]
     },
     {
-        "id": 34,
+        "id": 35,
         "url": "https://i.imgur.com/lPgfPCS.jpg",
         "title": "Kagetsu",
         "artist": "gausebokashi",
@@ -424,6 +424,768 @@
             ["char", "kagetsu"],
             ["frame", "full"],
             ["type", "colored"]
+        ]
+    },
+    {
+        "id": 36,
+        "url": "https://i.imgur.com/KPQlnM1.jpg",
+        "title": "Bridal Ninian",
+        "artist": "sakurachanart02",
+        "tags": [
+            ["char", "ninian"],
+            ["frame", "bust"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 37,
+        "url": "https://i.imgur.com/ulgXCuc.jpg",
+        "title": "Eirika",
+        "artist": "neriedor",
+        "tags": [
+            ["char", "eirika"],
+            ["frame", "full"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 38,
+        "url": "https://i.imgur.com/RSyppkt.png",
+        "title": "AI:NI Mizuki",
+        "artist": "mu66112902",
+        "tags": [
+            ["char", "mizuki"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 39,
+        "url": "https://i.imgur.com/MbXsKpz.jpg",
+        "title": "Brave Eirika",
+        "artist": "kejokaya",
+        "tags": [
+            ["char", "eirika"],
+            ["frame", "half"],
+            ["type", "bw sketch"]
+        ]
+    },
+    {
+        "id": 40,
+        "url": "https://i.imgur.com/tP8Rsbj.jpg",
+        "title": "Brave Eliwood",
+        "artist": "kejokaya",
+        "tags": [
+            ["char", "eliwood"],
+            ["frame", "half"],
+            ["type", "bw sketch"]
+        ]
+    },
+    {
+        "id": 41,
+        "url": "https://i.imgur.com/xxl5ZAX.png",
+        "title": "Legiana Armor Cherche",
+        "artist": "laurencin",
+        "tags": [
+            ["char", "cherche"],
+            ["frame", "full"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 42,
+        "url": "https://i.imgur.com/xrCoZL0.jpg",
+        "title": "Legendary Ninian",
+        "artist": "gao_kawa",
+        "tags": [
+            ["char", "ninian"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 43,
+        "url": "https://i.imgur.com/h0loOLh.jpg",
+        "title": "Lucina wielding Luin",
+        "artist": "missdurianne",
+        "tags": [
+            ["char", "lucina"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 44,
+        "url": "https://i.imgur.com/dCfY0w7.png",
+        "title": "Anamnesis Eirika",
+        "artist": "mu66112902",
+        "tags": [
+            ["char", "eirika"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 45,
+        "url": "https://i.imgur.com/ZyPMmKJ.jpg",
+        "title": "Winter Sanaki and Micaiah",
+        "artist": "voyager_369",
+        "tags": [
+            ["char", "sanaki"],
+            ["char", "micaiah"],
+            ["frame", "full"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 46,
+        "url": "https://i.imgur.com/xtpbDGS.jpg",
+        "title": "Legendary Caeda",
+        "artist": "voyager_369",
+        "tags": [
+            ["char", "caeda"],
+            ["frame", "full"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 47,
+        "url": "https://i.imgur.com/Vhf34oO.png",
+        "title": "Bridal Ninian",
+        "artist": "epppaya_okoge",
+        "tags": [
+            ["char", "ninian"],
+            ["frame", "bust"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 48,
+        "url": "https://i.imgur.com/mVzWsq6.png",
+        "title": "Resplendent Elincia",
+        "artist": "kamikita246",
+        "tags": [
+            ["char", "elincia"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 49,
+        "url": "https://i.imgur.com/rLfkx0h.png",
+        "title": "Resplendent Jeorge",
+        "notes": "Commissioned for the release of Resplendent Jeorge.",
+        "artist": "makoto_139",
+        "tags": [
+            ["char", "jeorge"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 50,
+        "url": "https://i.imgur.com/WFwZ7Js.jpg",
+        "title": "Eliwood and Ninian's wedding",
+        "artist": "10000zs",
+        "tags": [
+            ["char", "ninian"],
+            ["char", "eliwood"],
+            ["frame", "full"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 51,
+        "url": "https://i.imgur.com/6eJhJPb.png",
+        "title": "Hina Hikawa icon",
+        "artist": "hwwnwa",
+        "tags": [
+            ["char", "hina hikawa"],
+            ["frame", "bust"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 52,
+        "url": "https://i.imgur.com/Fd1PDFJ.png",
+        "title": "Resplendent Eirika wields Arcane Eluðnir",
+        "artist": "kuzunue",
+        "tags": [
+            ["char", "eirika"],
+            ["frame", "full"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 53,
+        "url": "https://i.imgur.com/7tZDlR4.png",
+        "title": "Legendary Eliwood",
+        "artist": "teo_illust",
+        "tags": [
+            ["char", "eliwood"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 54,
+        "url": "https://i.imgur.com/CRNfbp9.jpg",
+        "title": "Eirika and L'Arachel",
+        "artist": "natendo_art",
+        "tags": [
+            ["char", "eirika"],
+            ["char", "larachel"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 55,
+        "url": "https://i.imgur.com/tPwYxbg.jpg",
+        "title": "Legendary Dimitri (NG+ hairstyle)",
+        "artist": "gzeidraws",
+        "tags": [
+            ["char", "dimitri"],
+            ["frame", "full"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 56,
+        "url": "https://i.imgur.com/wdwIWZm.jpg",
+        "title": "Eliwood and Ninian together",
+        "artist": "jrawsarts",
+        "notes": "This image is a reference to Lord Leighton's Wedded.",
+        "tags": [
+            ["char", "eliwood"],
+            ["char", "ninian"],
+            ["frame", "full"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 57,
+        "url": "https://i.imgur.com/rTcL4wv.jpg",
+        "title": "Brave Sacred Twins",
+        "artist": "rodlanghi",
+        "notes": "This image was commissioned to commemorate Brave Eirika's weapon refine.",
+        "tags": [
+            ["char", "eirika"],
+            ["char", "ephraim"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 58,
+        "url": "https://i.imgur.com/J4WVaXq.jpg",
+        "title": "Dimitri (Three Hopes)",
+        "artist": "teniwohayukke",
+        "tags": [
+            ["char", "dimitri"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 59,
+        "url": "https://i.imgur.com/kqIYW9Q.png",
+        "title": "Resplendent Caeda and Feh",
+        "artist": "fe135700",
+        "tags": [
+            ["char", "caeda"],
+            ["frame", "full"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 60,
+        "url": "https://i.imgur.com/phXCcdk.jpg",
+        "title": "Modern Eliwood and Ninian",
+        "artist": "sushi_pizza_RRR",
+        "tags": [
+            ["char", "eliwood"],
+            ["char", "ninian"],
+            ["frame", "full"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 61,
+        "url": "https://i.imgur.com/phXCcdk.jpg",
+        "title": "Valentine's Eliwood with a Noble Hat",
+        "artist": "inqua_art",
+        "tags": [
+            ["char", "eliwood"],
+            ["frame", "full"],
+            ["type", "colored sketch"]
+        ]
+    },
+    {
+        "id": 62,
+        "url": "https://i.imgur.com/phXCcdk.jpg",
+        "title": "Valentine's Eliwood with a Noble Hat",
+        "artist": "inqua_art",
+        "tags": [
+            ["char", "eliwood"],
+            ["frame", "full"],
+            ["type", "colored sketch"]
+        ]
+    },
+    {
+        "id": 63,
+        "url": "https://i.imgur.com/r0w1qDd.jpg",
+        "title": "Eliwood and Ninian YCH",
+        "artist": "reartity",
+        "notes": "This was a YCH request with a base designed by @sierra117renner",
+        "tags": [
+            ["char", "eliwood"],
+            ["char", "ninian"],
+            ["frame", "bust"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 64,
+        "url": "https://i.imgur.com/zDfSB0M.jpg",
+        "title": "Eliwood and Ninian's Embrace",
+        "artist": "miyama_BB",
+        "tags": [
+            ["char", "eliwood"],
+            ["char", "ninian"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 65,
+        "url": "https://i.imgur.com/Uk4ykHo.png",
+        "title": "Resplendent Eliwood",
+        "artist": "misokatsuhaumai",
+        "tags": [
+            ["char", "eliwood"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 66,
+        "url": "https://i.imgur.com/sszsgRi.png",
+        "title": "Eliwood",
+        "artist": "sierra117renner",
+        "tags": [
+            ["char", "eliwood"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 67,
+        "url": "https://i.imgur.com/6lvlBn9.jpg",
+        "title": "Sleepy Mirabilis",
+        "artist": "in0in017",
+        "tags": [
+            ["char", "mirabilis"],
+            ["frame", "full"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 68,
+        "url": "https://i.imgur.com/mISeBVi.png",
+        "title": "Eliwood and Ninian",
+        "artist": "wwitchi_",
+        "tags": [
+            ["char", "eliwood"],
+            ["char", "ninian"],
+            ["frame", "bust"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 69,
+        "url": "https://i.imgur.com/IaQ9pmr.png",
+        "title": "Halloween L'Arachel",
+        "notes": "Requested skeb-style via Ko-Fi.",
+        "artist": "jadesnapart",
+        "tags": [
+            ["char", "larachel"],
+            ["frame", "full"],
+            ["type", "colored sketch"]
+        ]
+    },
+    {
+        "id": 70,
+        "url": "https://i.imgur.com/i3T022r.jpg",
+        "title": "Hoshidan Summer Micaiah and Elincia",
+        "artist": "dark_knightaura",
+        "tags": [
+            ["char", "elincia"],
+            ["char", "micaiah"],
+            ["frame", "half"],
+            ["type", "colored sketch"]
+        ]
+    },
+    {
+        "id": 71,
+        "url": "https://i.imgur.com/VPUK9Gh.jpg",
+        "title": "Eliwood Chibi Parade",
+        "artist": "dotted__clouds",
+        "tags": [
+            ["char", "eliwood"],
+            ["frame", "chibi"],
+            ["type", "colored sketch"]
+        ]
+    },
+    {
+        "id": 72,
+        "url": "https://i.imgur.com/Uu3BIo2.png",
+        "title": "Summer Eirika",
+        "artist": "mia_cbx",
+        "tags": [
+            ["char", "eirika"],
+            ["frame", "full"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 73,
+        "url": "https://i.imgur.com/eG7KtgK.jpg",
+        "title": "PAFF and Hina Hikawa duet",
+        "artist": "reinakocchi",
+        "tags": [
+            ["char", "hina hikawa"],
+            ["char", "paff"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 74,
+        "url": "https://i.imgur.com/4kdohrl.jpg",
+        "title": "Summer Dimitri",
+        "artist": "soubi_1022",
+        "tags": [
+            ["char", "dimitri"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 75,
+        "url": "https://i.imgur.com/UBCE2T9.png",
+        "title": "Valentine's Silque",
+        "artist": "graffiti_uthn",
+        "tags": [
+            ["char", "silque"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 76,
+        "url": "https://i.imgur.com/gLcow8D.jpg",
+        "title": "Chibi Kagetsu",
+        "artist": "jadesnapart",
+        "tags": [
+            ["char", "kagetsu"],
+            ["frame", "chibi"],
+            ["type", "colored sketch"]
+        ]
+    },
+    {
+        "id": 77,
+        "url": "https://i.imgur.com/0Tj5xbd.png",
+        "title": "Brave Eliwood",
+        "artist": "B_PearlWhite",
+        "tags": [
+            ["char", "eliwood"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 78,
+        "url": "https://i.imgur.com/MFWqFAK.png",
+        "title": "Suit Eirika",
+        "artist": "yoshiki_i1",
+        "tags": [
+            ["char", "eirika"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 79,
+        "url": "https://i.imgur.com/GAVQrY4.png",
+        "title": "Legendary Eirika",
+        "notes": "Based off her Legendary alt's Meet the Heroes page.",
+        "artist": "yoshimiso04510",
+        "tags": [
+            ["char", "eirika"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 80,
+        "url": "https://i.imgur.com/WLV2hPf.png",
+        "title": "Resplendent Eirika",
+        "artist": "wasabi_oome",
+        "tags": [
+            ["char", "eirika"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 81,
+        "url": "https://i.imgur.com/MBUSZLg.jpg",
+        "title": "Legendary Caeda",
+        "artist": "meqqey",
+        "tags": [
+            ["char", "caeda"],
+            ["frame", "icon"],
+            ["type", "colored sketch"]
+        ]
+    },
+    {
+        "id": 82,
+        "url": "https://i.imgur.com/nUEyUGs.jpg",
+        "title": "Resplendent Eirika",
+        "artist": "meqqey",
+        "tags": [
+            ["char", "eirika"],
+            ["frame", "icon"],
+            ["type", "colored sketch"]
+        ]
+    },
+    {
+        "id": 83,
+        "url": "https://i.imgur.com/LQNI7Xg.jpg",
+        "title": "L'Arachel",
+        "artist": "meqqey",
+        "tags": [
+            ["char", "larachel"],
+            ["frame", "icon"],
+            ["type", "colored sketch"]
+        ]
+    },
+    {
+        "id": 84,
+        "url": "https://i.imgur.com/hSUM1tR.jpg",
+        "title": "Summer Elincia",
+        "artist": "nei_tpokirasuto",
+        "tags": [
+            ["char", "elincia"],
+            ["frame", "full"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 85,
+        "url": "https://i.imgur.com/Nu5ZNqa.jpg",
+        "title": "Resplendent Eliwood with a flower crown",
+        "artist": "chynandri",
+        "tags": [
+            ["char", "eliwood"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 86,
+        "url": "https://i.imgur.com/D3aB3pr.jpg",
+        "title": "Jeorge",
+        "artist": "Betabetamaru_77",
+        "tags": [
+            ["char", "jeorge"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 87,
+        "url": "https://i.imgur.com/z4AdjWA.jpg",
+        "title": "Reyson and Leanne's Galdr",
+        "artist": "ayaraejiri",
+        "tags": [
+            ["char", "reyson"],
+            ["char", "leanne"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 88,
+        "url": "https://i.imgur.com/Ge4xGGo.jpg",
+        "title": "Sailor Moon Eirika",
+        "artist": "kshatriya",
+        "tags": [
+            ["char", "eirika"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 89,
+        "url": "https://i.imgur.com/D9ijeHy.jpg",
+        "title": "Yukata Eirika",
+        "artist": "osiri_siri_siri",
+        "tags": [
+            ["char", "eirika"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 90,
+        "url": "https://i.imgur.com/jjQBncO.png",
+        "title": "Eliwood and Ninian: The Progress of Love",
+        "artist": "sokora_hen50",
+        "notes": "This was drawn as a reference to The Progress of Love - Love Letters by Fragonard.",
+        "tags": [
+            ["char", "eliwood"],
+            ["char", "ninian"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 91,
+        "url": "https://i.imgur.com/PYuZq6r.jpg",
+        "title": "Eliwood",
+        "artist": "Oedo_nekosukiy",
+        "tags": [
+            ["char", "eliwood"],
+            ["frame", "full"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 92,
+        "url": "https://i.imgur.com/yk6WqtV.jpg",
+        "title": "Eirika and L'Arachel's wedding",
+        "artist": "ClovisXVII",
+        "tags": [
+            ["char", "eirika"],
+            ["char", "larachel"],
+            ["frame", "full"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 93,
+        "url": "https://i.imgur.com/N3N4usO.png",
+        "title": "Eliwood and Ninian in the sky",
+        "artist": "Tomo_shirasu",
+        "tags": [
+            ["char", "eliwood"],
+            ["char", "ninian"],
+            ["frame", "full"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 94,
+        "url": "https://i.imgur.com/oXpo3cG.jpg",
+        "title": "Felix CYL Propaganda",
+        "artist": "RisingSunfish",
+        "tags": [
+            ["char", "felix"],
+            ["frame", "chibi"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 95,
+        "url": "https://i.imgur.com/CQcjmCf.jpg",
+        "title": "Modern Dimitri",
+        "artist": "haruno_710",
+        "tags": [
+            ["char", "dimitri"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 96,
+        "url": "https://i.imgur.com/daunljq.png",
+        "title": "Basileus and Michael",
+        "artist": "SilkenTofu",
+        "tags": [
+            ["char", "basileus"],
+            ["char", "michael"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 97,
+        "url": "https://i.imgur.com/qPsbW1k.png",
+        "title": "Ninian and Eliwood plush",
+        "artist": "peach11_01",
+        "tags": [
+            ["char", "ninian"],
+            ["char", "eliwood"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 98,
+        "url": "https://i.imgur.com/kqIYW9Q.png",
+        "title": "Caeda and Marth plush",
+        "artist": "m1n0f2e1_",
+        "tags": [
+            ["char", "caeda"],
+            ["char", "marth"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 99,
+        "url": "https://i.imgur.com/ScvZHgN.png",
+        "title": "Brave Eirika head",
+        "artist": "sasano_y",
+        "tags": [
+            ["char", "eirika"],
+            ["frame", "icon"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 100,
+        "url": "https://i.imgur.com/fyvgT0l.jpg",
+        "title": "Dimitri (Three Hopes)",
+        "artist": "moorhacca",
+        "tags": [
+            ["char", "dimitri"],
+            ["frame", "half"],
+            ["type", "colored sketch"]
+        ]
+    },
+    {
+        "id": 101,
+        "url": "https://i.imgur.com/OPF1VPz.jpg",
+        "title": "Jeorge chibi",
+        "artist": "Nico_squitter",
+        "tags": [
+            ["char", "jeorge"],
+            ["frame", "chibi"],
+            ["type", "bw sketch"]
+        ]
+    },
+    {
+        "id": 102,
+        "url": "https://i.imgur.com/QgoRSrp.jpg",
+        "title": "Three Brave Queens",
+        "artist": "Nico_squitter",
+        "tags": [
+            ["char", "jeorge"],
+            ["frame", "chibi"],
+            ["type", "bw sketch"]
         ]
     }
 ]

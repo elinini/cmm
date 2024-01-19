@@ -25,7 +25,7 @@ function Grid() {
         window.scrollTo({ top: 0, behavior: "smooth" });
     };
     useEffect(() => {
-        setImages(data.sort(() => 0.5 - Math.random()));
+        setImages(data);
         setSize(data.length);
     }, []);
 
@@ -41,7 +41,7 @@ function Grid() {
             <div className="justify-start flex items-center gap-5 pb-5">
                 <p>{size} commissions displayed</p>
             </div>
-            <div className="columns-4 space-y-4 gap-4 place-items-start">
+            <div className="columns-4 space-y-5 gap-4 place-items-start">
                 {images.map((image) => {
                     return (
                         <LazyLoad offset={500} key={`${image.id}`}>
