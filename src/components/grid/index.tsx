@@ -148,7 +148,7 @@ function Grid() {
                                     <div
                                         className={
                                             v.size > 8
-                                                ? "grid grid-cols-4 gap-x-3"
+                                                ? "grid sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-x-3"
                                                 : "grid grid-cols-1"
                                         }
                                     >

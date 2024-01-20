@@ -80,7 +80,7 @@
         "tags": [
             ["char", "jeorge"],
             ["frame", "bust"],
-            ["type", "traditional"]
+            ["type", "colored"]
         ]
     },
     {
@@ -689,7 +689,7 @@
     },
     {
         "id": 59,
-        "url": "https://i.imgur.com/kqIYW9Q.png",
+        "url": "https://i.imgur.com/z1WuBej.png",
         "title": "Resplendent Caeda and Feh",
         "artist": "fe135700",
         "tags": [
@@ -712,7 +712,7 @@
     },
     {
         "id": 61,
-        "url": "https://i.imgur.com/phXCcdk.jpg",
+        "url": "https://i.imgur.com/yxs2wNR.jpg",
         "title": "Valentine's Eliwood with a Noble Hat",
         "artist": "inqua_art",
         "tags": [
@@ -723,13 +723,15 @@
     },
     {
         "id": 62,
-        "url": "https://i.imgur.com/phXCcdk.jpg",
-        "title": "Valentine's Eliwood with a Noble Hat",
-        "artist": "inqua_art",
+        "url": "https://i.imgur.com/QgoRSrp.jpg",
+        "title": "Three Brave Queens",
+        "artist": "babykatafan",
         "tags": [
-            ["char", "eliwood"],
-            ["frame", "full"],
-            ["type", "colored sketch"]
+            ["char", "eirika"],
+            ["char", "camilla"],
+            ["char", "micaiah"],
+            ["frame", "half"],
+            ["type", "colored"]
         ]
     },
     {
@@ -1171,17 +1173,6 @@
         "id": 101,
         "url": "https://i.imgur.com/OPF1VPz.jpg",
         "title": "Jeorge chibi",
-        "artist": "Nico_squitter",
-        "tags": [
-            ["char", "jeorge"],
-            ["frame", "chibi"],
-            ["type", "bw sketch"]
-        ]
-    },
-    {
-        "id": 102,
-        "url": "https://i.imgur.com/QgoRSrp.jpg",
-        "title": "Three Brave Queens",
         "artist": "Nico_squitter",
         "tags": [
             ["char", "jeorge"],
