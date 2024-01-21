@@ -61,6 +61,20 @@ function Grid() {
             : setAppliedFilters([]);
     };
 
+    const applyAllOfType = (type: string) => {
+        if (allFilters.get(type) !== undefined) {
+            const allRelTags = allFilters.get(type);
+            allRelTags?.forEach((i) => {
+                if (!appliedFilters.find((a) => a === i)) {
+                    applyFilter(i);
+                }
+            });
+            document
+                .querySelectorAll(`input[id=${type}]`)
+                .forEach((el) => ((el as HTMLInputElement).checked = true));
+        }
+    };
+
     const applyFilter = (apply: string) => {
         let newFilters: Array<string> = appliedFilters;
 
@@ -145,6 +159,14 @@ function Grid() {
                             return (
                                 <div className="px-5 py-2" key={k}>
                                     <p className="font-bold">{k}</p>
+                                    <div className="flex flex-row">
+                                        <button
+                                            onClick={() => applyAllOfType(k)}
+                                            className="hover:underline"
+                                        >
+                                            select all {k}s
+                                        </button>
+                                    </div>
                                     <div
                                         className={
                                             v.size > 8
@@ -165,6 +187,7 @@ function Grid() {
                                                         }
                                                         key={i}
                                                         defaultChecked={true}
+                                                        id={`${k}`}
                                                     />
                                                     <p>&nbsp;{i}</p>
                                                 </div>
@@ -194,7 +217,7 @@ function Grid() {
             )}
             {showAbout && (
                 <div className="flex flex-row justify-between border-double border-white border-2 p-2 m-2 rounded-lg">
-                    This gallery is SFW and shows personal commissions.
+                    This gallery is SFW and contains personal commissions.
                     <br />
                     All artwork featured on this page was commissioned by me
                     (not drawn by me).

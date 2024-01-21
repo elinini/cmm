@@ -27,7 +27,6 @@
         "id": 2,
         "url": "https://i.imgur.com/6pWCmGE.jpg",
         "title": "Eliwood and Ninian in the glade",
-        "alt": "Eliwood and Ninian under a tree in a forest closing together.",
         "artist": "bilo_art",
         "tags": [
             ["char", "eliwood"],
@@ -51,7 +50,6 @@
         "id": 4,
         "url": "https://i.imgur.com/iOGomok.jpg",
         "title": "Brave Eirika and Feh",
-        "alt": "Eirika snuggling with Feh the owl.",
         "notes": "This was a piece commissioned to celebrate the release of Brave Eirika.",
         "artist": "yog09_",
         "tags": [
@@ -64,7 +62,6 @@
         "id": 5,
         "url": "https://i.imgur.com/3C46Pb6.png",
         "title": "Felix (post-timeskip)",
-        "alt": "Felix poses in his battle attire.",
         "artist": "ruta_tata",
         "tags": [
             ["char", "felix"],
@@ -541,7 +538,7 @@
         "id": 46,
         "url": "https://i.imgur.com/xtpbDGS.jpg",
         "title": "Legendary Caeda",
-        "artist": "voyager_369",
+        "artist": "kiriyama2109",
         "tags": [
             ["char", "caeda"],
             ["frame", "full"],
@@ -975,7 +972,7 @@
     },
     {
         "id": 84,
-        "url": "https://i.imgur.com/hSUM1tR.jpg",
+        "url": "https://i.imgur.com/RFcVVpU.jpg",
         "title": "Summer Elincia",
         "artist": "nei_tpokirasuto",
         "tags": [
@@ -1022,7 +1019,8 @@
         "id": 88,
         "url": "https://i.imgur.com/Ge4xGGo.jpg",
         "title": "Sailor Moon Eirika",
-        "artist": "kshatriya",
+        "artist": "kshatriya_666_",
+        "notes": "Sailor Moon frame redraw.",
         "tags": [
             ["char", "eirika"],
             ["frame", "half"],
@@ -1178,6 +1176,17 @@
             ["char", "jeorge"],
             ["frame", "chibi"],
             ["type", "bw sketch"]
+        ]
+    },
+    {
+        "id": 102,
+        "url": "https://i.imgur.com/IYBTypS.png",
+        "title": "Pirate Eliwood",
+        "artist": "Quiu_bagan",
+        "tags": [
+            ["char", "eliwood"],
+            ["frame", "half"],
+            ["type", "colored"]
         ]
     }
 ]

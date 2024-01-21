@@ -50,7 +50,7 @@ function Lightbox({ image, setLightBox }: IProps) {
                     {/* Image & annotation */}
                     <div className="flex flex-col px-4 justify-center items-center pt-2 h-7/8 max-h-9/10 w-9/10">
                         <img
-                            className="max-h-[95vh]"
+                            className="max-h-[85vh]"
                             src={image.url}
                             title={image?.title}
                         />
