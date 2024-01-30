@@ -972,7 +972,7 @@
     },
     {
         "id": 84,
-        "url": "https://i.imgur.com/RFcVVpU.jpg",
+        "url": "https://i.imgur.com/SyVL7LU.jpg",
         "title": "Summer Elincia",
         "artist": "nei_tpokirasuto",
         "tags": [
@@ -1185,6 +1185,28 @@
         "artist": "Quiu_bagan",
         "tags": [
             ["char", "eliwood"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 103,
+        "url": "https://i.imgur.com/yCvBNFL.png",
+        "title": "Bride Eirika",
+        "artist": "mzg04",
+        "tags": [
+            ["char", "eirika"],
+            ["frame", "half"],
+            ["type", "colored sketch"]
+        ]
+    },
+    {
+        "id": 104,
+        "url": "https://i.imgur.com/JKaoVwf.jpg",
+        "title": "Eirika and Wooper",
+        "artist": "o_ko_ge__",
+        "tags": [
+            ["char", "eirika"],
             ["frame", "half"],
             ["type", "colored"]
         ]
