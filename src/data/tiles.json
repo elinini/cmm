@@ -1210,5 +1210,29 @@
             ["frame", "half"],
             ["type", "colored"]
         ]
+    },
+    {
+        "id": 105,
+        "url": "https://i.imgur.com/VQDcNcg.jpg",
+        "title": "Valentine's Eliwood",
+        "artist": "sierra117renner",
+        "tags": [
+            ["char", "eliwood"],
+            ["frame", "half"],
+            ["type", "colored sketch"]
+        ]
+    },
+    {
+        "id": 106,
+        "url": "https://i.imgur.com/VQDcNcg.jpg",
+        "title": "Pandreo and Twins in the Somniel",
+        "artist": "aiueOKOSO",
+        "tags": [
+            ["char", "eirika"],
+            ["char", "ephraim"],
+            ["char", "pandreo"],
+            ["frame", "full"],
+            ["type", "colored"]
+        ]
     }
 ]
