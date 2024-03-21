@@ -121,9 +121,9 @@ function Grid() {
 
     useEffect(() => {
         buildFilters();
-        const imgs = data.sort(() => Math.random() - 0.5);
-        setImages(imgs);
-        setFilteredImages(imgs);
+        // const imgs = data.sort(() => Math.random() - 0.5);
+        setImages(data);
+        setFilteredImages(data);
     }, []);
 
     useEffect(() => {

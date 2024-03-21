@@ -1234,5 +1234,72 @@
             ["frame", "full"],
             ["type", "colored"]
         ]
+    },
+    {
+        "id": 107,
+        "url": "https://i.imgur.com/oJMD71h.jpg",
+        "title": "Felix",
+        "artist": "luminnea",
+        "tags": [
+            ["char", "felix"],
+            ["frame", "bust"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 108,
+        "url": "https://i.imgur.com/Roe0Dek.png",
+        "title": "Jeorge",
+        "artist": "DaphneComics",
+        "tags": [
+            ["char", "jeorge"],
+            ["frame", "half"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 109,
+        "url": "https://i.imgur.com/rxO1bN9.jpg",
+        "title": "Valentine's Eirika",
+        "artist": "_huusu_",
+        "tags": [
+            ["char", "eirika"],
+            ["frame", "full"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 110,
+        "url": "https://i.imgur.com/7bq3UCg.png",
+        "title": "Eliwood and Ninian",
+        "artist": "minorudonguri",
+        "tags": [
+            ["char", "eliwood"],
+            ["char", "ninian"],
+            ["frame", "full"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 111,
+        "url": "https://i.imgur.com/XU2AO8y.jpg",
+        "title": "Kagetsu chibi",
+        "artist": "LittleClairvoyant",
+        "tags": [
+            ["char", "kagetsu"],
+            ["frame", "chibi"],
+            ["type", "colored"]
+        ]
+    },
+    {
+        "id": 112,
+        "url": "https://i.imgur.com/6NfaREg.png",
+        "title": "Ninja Sanaki chibi",
+        "artist": "meqqey",
+        "tags": [
+            ["char", "Sanaki"],
+            ["frame", "chibi"],
+            ["type", "colored sketch"]
+        ]
     }
 ]
