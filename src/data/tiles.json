@@ -972,7 +972,7 @@
     },
     {
         "id": 84,
-        "url": "https://i.imgur.com/SyVL7LU.jpg",
+        "url": "https://i.imgur.com/69MrcoN.jpg",
         "title": "Summer Elincia",
         "artist": "nei_tpokirasuto",
         "tags": [
@@ -1300,6 +1300,17 @@
             ["char", "Sanaki"],
             ["frame", "chibi"],
             ["type", "colored sketch"]
+        ]
+    },
+    {
+        "id": 113,
+        "url": "https://i.imgur.com/FZRV37o.jpg",
+        "title": "Lyon",
+        "artist": "lunavanillaa",
+        "tags": [
+            ["char", "Lyon"],
+            ["frame", "half"],
+            ["type", "bw sketch"]
         ]
     }
 ]
